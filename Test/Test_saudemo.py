@@ -5,6 +5,7 @@
 def driver():
 
 def test_login()
+assert
 
 def test_catalogo()
 
